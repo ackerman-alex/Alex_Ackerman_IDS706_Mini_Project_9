@@ -1,3 +1,5 @@
+[![CI](https://github.com/nogibjj/Alex_Ackerman_IDS706_Assignment2/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Alex_Ackerman_IDS706_Assignment2/actions/workflows/cicd.yml)
+
 # IDS-706-Data-Engineering
 
 ## Mini-project #2: Pandas Descriptive Statistics Script

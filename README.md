@@ -23,10 +23,12 @@ Main.py contains four functions:
 ### Summary Statistics
 
 Traffic Volume Summary Statistics Overview:
-![alt text](image.png)
+![alt text](image.png){: width="200"}
+
 
 Traffic Volume Summary Statistics (Day vs Night)
-![alt text](image-1.png)  ![alt text](image-2.png)
+![alt text](image-1.png){: width="200"}  
+![alt text](image-2.png){: width="200"}
 
 ### Data Visualization
 

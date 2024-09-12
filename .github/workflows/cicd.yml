@@ -26,13 +26,13 @@ jobs:
       - name: lint
         run: make lint
 
-      - name: Generate Graph and Markdown
-        run: python main.py
+      # - name: Generate Graph and Markdown
+      #   run: python main.py
   
-      - name: Commit and Push Changes
-        run: |
-          git config --global user.email "alex.ackerman.j@gmail.com"
-          git config --global user.name "ackerman-alex"
-          git add .
-          git commit -m "Generate graph and markdown"
-          git push origin main
+      # - name: Commit and Push Changes
+      #   run: |
+      #     git config --global user.email "alex.ackerman.j@gmail.com"
+      #     git config --global user.name "ackerman-alex"
+      #     git add .
+      #     git commit -m "Generate graph and markdown"
+      #     git push origin main

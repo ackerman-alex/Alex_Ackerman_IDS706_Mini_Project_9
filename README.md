@@ -22,7 +22,7 @@ Main.py contains four functions:
 
 ### Summary Statistics
 
-Traffic Volume Summary Statistics Sverview:
+Traffic Volume Summary Statistics Overview:
 ![alt text](image.png)
 
 Traffic Volume Summary Statistics (Day vs Night)

@@ -1,11 +1,17 @@
-[![CI](https://github.com/nogibjj/Alex_Ackerman_IDS706_Assignment2/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Alex_Ackerman_IDS706_Assignment2/actions/workflows/cicd.yml)
+[![CI](https://github.com/ackerman-alex/Alex_Ackerman_IDS706_Mini_Project_9/actions/workflows/cicd.yml/badge.svg)](https://github.com/ackerman-alex/Alex_Ackerman_IDS706_Mini_Project_9/actions/workflows/cicd.yml)
 
 # IDS-706-Data-Engineering
 
-## Mini-project #2: Pandas Descriptive Statistics Script
+# Mini Project #9: Cloud Hosted Jupyter Notebook - Google Colab
 
-### Purpose of Project
-The purpose of this project is to create a Python script that utilizes Pandas to generate descriptive statistics.
+The purpose of this project was to host a jupyter notebook on a cloud service such as Google Colab. The notebook hosted in Google-Colab is called `heavy_traffic_indicators.ipynb`. The subject and results of the notebook used aren't very important for this project. Instead the focus is to show how easily a cloud service can be integrated with Github. 
+
+If you wish to know more about the data and results of `heavy_traffic_indicators.ipynb` continue to read the `README`or review the notebook itself. 
+
+Additionally, the `README`covers details on `main.py` and `test_main.py` which are scripts that perform the same actions as the cloud-hosted notebook which are needed for CI/CD. 
+
+## Resource for Implementing Google-Colab
+This project was based on the instructions provided by this [Pragmatic AI Labs video](https://www.youtube.com/watch?v=6Egd-OMLLV4)
 
 ### About the Data
 The data used is provided by John Hogue and can be found on the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/492/metro+interstate+traffic+volume)
@@ -26,21 +32,21 @@ Main.py contains four functions:
 
 Traffic Volume Summary Statistics Overview:
 
-<img src="image.png" alt="alt text" width="200">
+<img src="README_Images/image.png" alt="alt text" width="200">
 <!-- ![alt text](image.png){: width="200"} -->
 
 
 Traffic Volume Summary Statistics (Day vs Night):
 
-<img src="image-1.png" alt="alt text" width="200">
+<img src="README_Images/image-1.png" alt="alt text" width="200">
 
-<img src="image-2.png" alt="alt text" width="200">
+<img src="README_Images/image-2.png" alt="alt text" width="200">
 <!-- ![alt text](image-1.png){: width="200"}  
 ![alt text](image-2.png){: width="200"} -->
 
 ### Data Visualization
 
-![alt text](Figure/Traffic.png)
+![alt text](README_Images/Traffic.png)
 
 ## Conclusion
 
